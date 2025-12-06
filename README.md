@@ -6,7 +6,7 @@
 ![Script: Todo_Bichig](https://img.shields.io/badge/Script-Todo_Bichig-orange)
 
 ## 📄 Abstract
-This repository contains a digital dataset of Buddhist manuscripts written in the **Oirat Clear Script (Todo Bichig)**. The materials originate from the Buddhist heritage of the **Tuva Republic** (the Russian Federation).
+This repository contains a digital dataset of Buddhist manuscripts written in the **Oirat Clear Script (Todo Bichig)**. The materials originate from the Buddhist heritage of the **Tyva Republic** (the Russian Federation).
 
 This pilot dataset consists of **some digitized pages** (images) collected from Buddhist temples in Tuva. It is intended for:
 * **Archival purposes:** Preserving endangered texts.
