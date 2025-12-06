@@ -22,6 +22,7 @@ The repository is organized as follows:
     * 📁 **images/** — Raw images (e.g., `doc_01.jpg`)
     * 📁 **annotations/** — *(Future)* Text transcriptions
   * 📄 **metadata.json** — Technical description
+  * 📁 **parse/** — AI parse-transcriptions-translations results (by Gemini)
   * 📄 **README.md** — This documentation
 
 ## 📍 Metadata & Provenance
